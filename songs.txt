@@ -1,0 +1,35 @@
+Billie Jean
+Michael Jackson
+Thriller
+1982
+Pop
+4
+54
+Bohemian Rhapsody
+Queen
+A Night at the Opera
+1975
+Rock
+5
+55
+Hotel California
+Eagles
+Hotel California
+1976
+Rock
+6
+30
+Shape of You
+Ed Sheeran
+Divide
+2017
+Pop
+3
+53
+Smells Like Teen Spirit
+Nirvana
+Nevermind
+1991
+Grunge
+5
+1
